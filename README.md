@@ -140,9 +140,11 @@ Currently, all the applications listed here load the data and javascript code fr
 
 [lavaboom.com](https://www.lavaboom.com)
 
-Lavaboom is a new web-based mail provider from Germany using client-side encryption in the browser. No further details are available at this time.
+Lavaboom is a new web-based mail provider from Germany using client-side encryption in the browser. Since it was OpenSourced in late January 2015 it has made all of its components available under www.github.com/lavab.
 
 Lavaboom's name is a tribute to the shuttered Lavabit service, although Lavaboom has no affiliation or people in common with Lavabit.
+
+License: MIT
 
 <a name="mega"></a>Mega
 -----------------------------------------------------------
